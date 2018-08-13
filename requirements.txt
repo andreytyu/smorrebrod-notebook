@@ -1,0 +1,7 @@
+jupyter
+tqdm
+requests
+pandas
+geopandas
+mapboxgl
+psycopg2
