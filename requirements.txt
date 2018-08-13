@@ -5,3 +5,7 @@ pandas
 geopandas
 mapboxgl
 psycopg2
+sklearn
+xgboost
+catboost
+fuzzywuzzy
