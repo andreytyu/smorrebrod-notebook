@@ -5,6 +5,7 @@ pandas
 geopandas
 mapboxgl
 psycopg2
+sklearn
 fuzzywuzzy
 googlemaps
 overpass
