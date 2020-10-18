@@ -5,7 +5,10 @@ pandas==1.1.2
 geopandas==0.8.1
 mapboxgl==0.10.2
 psycopg2==2.8.6
-sklearn==0.0
+scikit-learn==0.23.2
 fuzzywuzzy==0.18.0
 geopy==2.0.0
 xgboost==1.2.0
+xlrd==1.2.0
+msoffcrypto-tool==4.11.0
+keplergl==0.2.1
