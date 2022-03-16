@@ -5,7 +5,8 @@ LABEL maintainer="Andrey Tyukavin <geotyukavin@gmail.com>"
 RUN apt-get -yqq update && apt-get -yqq install \
     libgdal-dev \
     libgeos-dev \
-    python3-gdal
+    python3-gdal \
+    libspatialindex-dev
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
